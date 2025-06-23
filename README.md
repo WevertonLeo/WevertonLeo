@@ -14,7 +14,7 @@
 <div>
     <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
     <img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="LARAVEL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+    <img align="center" alt="LARAVEL" height="50" width="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALaravel.svg&psig=AOvVaw3an5E9GTMeVL3AI5qFHZMY&ust=1750807577845000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIio1dTYiI4DFQAAAAAdAAAAABAE)"/>
     <img align="center" alt="SQLSRV" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
     <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
